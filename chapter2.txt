@@ -1,1 +1,2 @@
-Add a new chapter
+Added a new chapter
+The new chapter is edited inside the test branch

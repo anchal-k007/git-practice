@@ -1,1 +1,2 @@
 Now I create a chapter3 in test branch.
+Updated chapter 3 after merge request was declined
